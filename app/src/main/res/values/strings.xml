@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="intro">Use this app for a simple minimalistic track of your assigments without having to do any settup more the logg and take advantaje of this
+       pay/add free service</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title" > Recognition App </string>
+    <string name="ADD">ADD </string>
+    <string name="UP">UP</string>
+    <string name="Wapp">Wapp</string>
+    <string name="SCMD">SCMD</string>
+    <string name="works">Set a Date </string>
+    <string name="oneortwo"> Done </string>
+    <string name="FreeRecognitionSystemForEveryone">F.R.S.F.E</string>
+    <string name="EnterEmail">Enter Email</string>
+    <string name="EnterPassword">Enter Password</string>
+    <string name="Register">Register</string>
+    <string name="LogIn">Log IN</string>
+    <string name="Foto"> Add Profile Photo</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="start_music">Play Music</string>
+    <string name="Detect">Detect</string>
+    <string name="toggle_camera">Toggle Camera:</string>
+    <string name="detect_object">Detect Object :</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Android Tutorials Hub</string>
+    <string name="Back_To_Login"> Back To Login</string>
+    <string name="Usernme"> Username</string>
+    <string name="camera_unavailable"> Camera Is Unavailable</string>
+    <string name="playv"> |> </string>
+    <string name="main_introduccion">
+       The app needs access to camera to fullfill its own propose so please we ask all the users
+        to provide that access. there is no other think that the app need and it will give you the chance
+        to secure you app access on your phone
+    </string>
+    <string name="EntryMessage">
+
+     <![CDATA[
+           Permissions For correct functioning
+
+           [( Access to Camera Permissions )]
+        ]]>
+    </string>
+    <string name="start_video"> Start New Video </string>
+    <string name= "Back" >  Back </string>
+    <string name="ShowCamera"> Show Camera </string>
+    <string name="Crew">Developer Contact: 1126517204 // Agustin Dantuoni // looking for sofftware developers to help growing the team</string>
+    <string name="cell">Insert Name</string>
+    <string name="bddb">Your Videos</string>
+    <string name="enter_a_new_item">Enter a new item</string>
+    <string name="add_item">Add Item</string>
+</resources>
